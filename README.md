@@ -1,1 +1,2 @@
 # Spirit-D
+This is the first init of the project. General goal is to create a drivers app for sharing enjoyable roads, rating them, generating roadtrips, using meta-data (type of car, hp, drivers style, ...) to find the next best Spirited Drive and more. Stay tuned.
