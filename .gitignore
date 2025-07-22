@@ -1,3 +1,6 @@
+# test files from gpxpy library
+test_files_gpxpy
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
